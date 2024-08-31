@@ -9,5 +9,5 @@ https://github.com/hipspay/Merchant-Protocol-Contracts
 A demo contract is deployed at Ethereum address (0x6B061bAe16E702c76C0D0537c8bf1928F2D7D2ec):
 https://etherscan.io/address/0x6B061bAe16E702c76C0D0537c8bf1928F2D7D2ec
 
-![image](https://github.com/hipspay/[reponame]/blob/main/public/demo.png?raw=true)
+![image](https://github.com/hipspay/blob/main/public/demo.png?raw=true)
 
